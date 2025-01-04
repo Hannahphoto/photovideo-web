@@ -1,6 +1,12 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import Home from './components/Home'
+import Photos from './components/Photos'
+import Videos from './components/Videos'
+import Commissions from './components/Commissions'
+import Contact from './components/Contact'
+import CV from './components/CV'
 import './App.css'
 
 
@@ -9,7 +15,14 @@ function App() {
 
   return (
     <>
-     
+      <Navbar/>
+      <Footer/>
+      <Home/>
+      <Photos/>
+      <Videos/>
+      <Commissions/>
+      <Contact/>
+      <CV/>
     </>
   )
 }
