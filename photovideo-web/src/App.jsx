@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import Navbar from './components/Navbar'
-import Footer from './components/Footer'
 import Home from './components/Home'
 import Photos from './components/Photos'
 import Videos from './components/Videos'
@@ -20,7 +19,6 @@ function App() {
                     <script src="http://localhost:5173"></script>
                 </head>
                <Navbar/>
-               <Footer/>
                <Home/>
                <Photos/>
                <Videos/>
