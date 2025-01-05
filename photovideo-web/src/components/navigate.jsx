@@ -15,7 +15,7 @@ export default function NavigateSite() {
   //depending on value of the currentPage we return the responding component to render
 
   const renderPage =()=>{
-    if(currentPage === 'Home'){
+    if(currentPage === '/'){
       return<HomePage/>;
     } 
     if(currentPage === 'Photos'){

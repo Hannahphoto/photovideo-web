@@ -2,14 +2,7 @@
 import { useEffect } from "react";
 
 export default function Home() {
-    // const myCarouselElement = document.querySelector('#myCarousel')
-
-    // const carousel = new bootstrap.Carousel(myCarouselElement, {
-    //     interval: 2000,
-    //     touch: false
-    // });
-
- 
+   
     return (
         <>
             <div id="carouselExample" className="carousel slide">
