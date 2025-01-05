@@ -1,4 +1,5 @@
-import { useState } from 'react'
+// import { useState } from 'react'
+import React from 'react';
 import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Photos from './components/Photos'
@@ -6,6 +7,7 @@ import Videos from './components/Videos'
 import Commissions from './components/Commissions'
 import Contact from './components/Contact'
 import CV from './components/Cv'
+import NavigateSite from './components/navigate'
 import './App.css'
 
 
@@ -25,6 +27,7 @@ function App() {
                <Commissions/>
                <Contact/>
                <CV/>
+               <NavigateSite/>
 
             </html>
         </>
