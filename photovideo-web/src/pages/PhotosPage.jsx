@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import Photos from "../components/Photos";
 
 
-export default function ContactPage(){
+export default function PhotosPage(){
     return(
         <div>
             <Navbar/>

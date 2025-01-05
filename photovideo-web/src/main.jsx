@@ -18,14 +18,6 @@ import ContactPage from '../src/pages/ContactPage.jsx';
 import CvPage from '../src/pages/CvPage.jsx';
 
 
-// import ErrorPage from './pages/ErrorPage.jsx';
-// import HomePage from './pages/HomePage.jsx';
-// import PhotosPage from './pages/PhotosPage.jsx';
-// import VideosPage from './pages/VideosPage.jsx';
-// // import CommissionsPage from './pages/CommissionsPage.jsx';
-// import ContactPage from './pages/ContactPage.jsx';
-// import CvPage from './pages/CvPage.jsx';
-
 const router = createBrowserRouter([
   {
     path: '/',

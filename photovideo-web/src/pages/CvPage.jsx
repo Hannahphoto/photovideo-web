@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import Cv from "../components/Cv";
 
 
-export default function ContactPage(){
+export default function CvPage(){
     return(
         <div>
             <Navbar/>

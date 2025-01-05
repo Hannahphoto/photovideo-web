@@ -7,26 +7,26 @@ export default function Navbar({ }) {
         <>
             <nav className="navbar navbar-expand-lg bg-body-tertiary" style={{ padding: "0px", margin: "1.5%" }} >
                 <div className="container-fluid">
-                    <a className="navbar-brand poppins-medium" href="#" style={{ color: '#cbbbe3', fontSize: '4vw' }}  >Hannah Price</a>
+                    <Link className="navbar-brand poppins-medium" id='link' to="/home" style={{ color: '#cbbbe3', fontSize: '4vw' }}  >Hannah Price</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link" aria-current="page" href="#" style={{ color: 'white' }}>Photos</a>
+                                <Link className="nav-link" aria-current="page" id='link'to="/photos" style={{ color: 'white' }}>Photos</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#" style={{ color: 'white' }}>Videos</a>
+                                <Link className="nav-link" id='link'to="/videos" style={{ color: 'white' }}>Videos</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#" style={{ color: 'white' }}>Commissions</a>
+                                <Link className="nav-link"id='link'to="/commissions" style={{ color: 'white' }}>Commissions</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#" style={{ color: 'white' }}>CV</a>
+                                <Link className="nav-link" id='link'to="/cv" style={{ color: 'white' }}>CV</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#" style={{ color: 'white' }}>Contact</a>
+                                <Link className="nav-link" id='link'to="/contact" style={{ color: 'white' }}>Contact</Link>
                             </li>
                         </ul>
                     </div>
