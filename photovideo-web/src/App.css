@@ -11,6 +11,11 @@ h1{
   text-align: center; 
 }
 
+h3{
+  padding: 15px;
+}
+
+
 .fixed-bottom{
   margin: 1.5%;
   text-align: center;
@@ -53,18 +58,15 @@ div.row.row-cols-1.row-cols-md-3.g-4{
 }
 
 .card{
-  /* margin: %; */
+  margin: 5%;
   display: flex;
   
 }
 
-/* .card-img-overlay{
- 
-  margin: 25%;
-  height: 23%;
-  width: 40%;
+.card-title{
   text-align: center;
-} */
+}
+
 
 .btn.btn-outline-info{
   width: 50%;
