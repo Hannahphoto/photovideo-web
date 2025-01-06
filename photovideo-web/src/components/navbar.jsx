@@ -32,11 +32,11 @@ export default function Navbar({ }) {
                     </div>
                 </div>
             </nav>
-            <footer className="fixed-bottom">
+            {/* <footer className="fixed-bottom">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#" style={{ color: 'white' }}>Hannah Price Photo Video LLC © </a>
                 </div>
-            </footer>
+            </footer> */}
         </>
     )
 
