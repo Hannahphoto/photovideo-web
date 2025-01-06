@@ -1,6 +1,10 @@
 
 export default function Videos() {
 
+    const openLink = (url) => {
+        window.open(url, '_blank');
+    };
+
     return (
         <>
             <div>
@@ -16,14 +20,14 @@ export default function Videos() {
                             {/* <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> 
                             
                             </div>*/}
-                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }}>October 27th, 2020</button>
+                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }} onClick={()=> openLink('https://www.youtube.com/watch?v=Mw1s6XuvwpM')}>October 27th, 2020</button>
                 </div>
                 <div className="card text-bg-dark">
                     <img src="/images/blueprint.png" className="card-img" alt="..."></img>
                         {/* <div className="card-img-overlay">
                             <h5 className="card-title">Blueprint</h5>
                         </div> */}
-                        <button type="button" className="btn btn-outline-info" style={{ color: "white" }}>Blueprint</button>
+                        <button type="button" className="btn btn-outline-info" style={{ color: "white" }} onClick={()=> openLink('https://vimeo.com/97292707')}>Blueprint</button>
                 </div>
                 <div className="card text-bg-dark">
                     <img src="/images/barber.png" className="card-img" alt="..."></img>
@@ -31,7 +35,7 @@ export default function Videos() {
                             <h5 className="card-title">Revisited & Improvised</h5>
                              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> 
                         </div> */}
-                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }}>Revisited & Improvised</button>
+                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }} onClick={()=> openLink('https://vimeo.com/169453866')}>Revisited & Improvised</button>
                 </div>
                 <div className="card text-bg-dark">
                     <img src="/images/narrativeattempt.png" className="card-img" alt="..."></img>
@@ -39,7 +43,7 @@ export default function Videos() {
                             <h5 className="card-title">Untitled, An Attempt At Narrative</h5>
                              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> 
                         </div> */}
-                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }}>Untitled, An Attempt At Narrative</button>
+                        <button type="button" className="btn btn-outline-info"style={{ color: "white" }} >Untitled, An Attempt At Narrative</button>
                 </div>
                 {/* <div className="card text-bg-dark">
                     <img src="..." className="card-img" alt="..."></img>
