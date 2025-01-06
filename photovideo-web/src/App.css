@@ -7,6 +7,8 @@
 
 }
 
+
+
 h1{
   text-align: center; 
 }
@@ -14,6 +16,7 @@ h1{
 h3{
   padding: 15px;
 }
+
 
 
 .fixed-bottom{
@@ -66,7 +69,8 @@ h3{
 .carousel{
   margin-left: 35%;
   margin-right: 35%;
-  margin-top: 5%; 
+  margin-top: 2%; 
+  margin-bottom: 2%;
   
 }
 
@@ -76,7 +80,14 @@ h3{
 }
 
 div.row.row-cols-1.row-cols-md-3.g-4{
-  margin: 5%;
+  margin: 15.7%;
+}
+
+div.row.row-cols-1{
+  justify-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 5%;
 }
 
 .card{
@@ -101,17 +112,15 @@ div.row.row-cols-1.row-cols-md-3.g-4{
 
 @media screen  and (max-width:900px)  {
   .carousel{
-    /* margin-left: 15%;
-    margin-right: 15%; */
     margin: 15%;
     
   }
   
-  /* .card-img-overlay{
-    margin: 20%;
-    height: 45%;
-    width: 55%;
-   
-  } */
+  div.row.row-cols-1{
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+  }
 
 }
