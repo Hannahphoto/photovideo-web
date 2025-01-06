@@ -3,6 +3,11 @@ export default function Videos() {
 
     return (
         <>
+            <div>
+                <h1 className="--bs-heading-color"style={{ color: "white" }}>
+                    Videos
+                </h1>
+            </div>
             <div className="row row-cols-1 row-cols-md-3 g-4">
                 <div className="card text-bg-dark">
                     <img src="/images/oct27.png" className="card-img" alt="..."></img>

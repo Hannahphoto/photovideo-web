@@ -34,7 +34,7 @@ export default function Navbar({ }) {
             </nav>
             <footer className="fixed-bottom">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#" style={{ color: 'white' }}>Footer</a>
+                    <a className="navbar-brand" href="#" style={{ color: 'white' }}>Hannah Price Photo Video LLC © </a>
                 </div>
             </footer>
         </>
