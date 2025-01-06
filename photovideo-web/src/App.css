@@ -58,14 +58,19 @@ div.row.row-cols-1.row-cols-md-3.g-4{
   
 }
 
-.card-img-overlay{
-  /* display: none; */
+/* .card-img-overlay{
+ 
   margin: 25%;
   height: 23%;
   width: 40%;
   text-align: center;
- 
+} */
+
+.btn.btn-outline-info{
+  width: 50%;
+  margin-left: 25%;
 }
+
 
 @media screen  and (max-width:900px)  {
   .carousel{
@@ -75,12 +80,11 @@ div.row.row-cols-1.row-cols-md-3.g-4{
     
   }
   
-  .card-img-overlay{
-    /* display: none; */
+  /* .card-img-overlay{
     margin: 20%;
     height: 45%;
     width: 55%;
    
-  }
+  } */
 
 }
