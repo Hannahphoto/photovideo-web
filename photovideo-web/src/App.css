@@ -26,8 +26,13 @@ h4{
 
 em{
   background-color: transparent;
+  font-size: large;
   
 }
+
+/* img{
+  max-height: 500px;
+} */
 
 .col-1{
   margin-left: 50%;

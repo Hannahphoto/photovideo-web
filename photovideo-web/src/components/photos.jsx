@@ -9,11 +9,12 @@ export default function Photos() {
                 </h1>
             </div>
             <div>
+                {/* first carousel*/}
                 <div className="card text-bg-dark">
                     <h4>
                         <em>Semaphore</em>
                     </h4>
-                    <div id="carouselExampleCaptions" className="carousel slide">
+                    <div id="carouselSemaphore" className="carousel slide">
                         <div className="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" className="active" aria-current="true" aria-label="Slide 2"></button>
@@ -87,23 +88,24 @@ export default function Photos() {
 
                         </div>
                     </div>
-                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselSemaphore" data-bs-slide="prev">
                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span className="visually-hidden">Previous</span>
                     </button>
-                    <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <button className="carousel-control-next" type="button" data-bs-target="#carouselSemaphore" data-bs-slide="next">
                         <span className="carousel-control-next-icon" aria-hidden="true"></span>
                         <span className="visually-hidden">Next</span>
                     </button>
                 </div>
 
 
+  {/* Second carousel*/}
 
                 <div className="card text-bg-dark">
                     <h4>
                         <em>Cursed By Night</em>
                     </h4>
-                    <div id="carouselExampleCaptions" className="carousel slide">
+                    <div id="carouselCursedByNight" className="carousel slide">
                         <div className="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" className="active" aria-current="true" aria-label="Slide 2"></button>
@@ -173,28 +175,134 @@ export default function Photos() {
                                 <img src="/images/cursedbynight/cbnight_16.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                            <img src="/images/cursedbynight/cbnight_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_09.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                            <img src="/images/cursedbynight/cbnight_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_04.jpg" className="d-block w-100" alt="..."></img>
                             </div>
 
                         </div>
                     </div>
-                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselCursedByNight" data-bs-slide="prev">
                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span className="visually-hidden">Previous</span>
                     </button>
-                    <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                    <button className="carousel-control-next" type="button" data-bs-target="#carouselCursedByNight" data-bs-slide="next">
                         <span className="carousel-control-next-icon" aria-hidden="true"></span>
                         <span className="visually-hidden">Next</span>
                     </button>
                 </div>
 
 
+  {/* third carousel*/}
+
                 <div className="card text-bg-dark">
                     <h4>
                         <em>City of Brotheryly Love</em>
+                    </h4>
+                    <div id="carouselCBL" className="carousel slide">
+                        <div className="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" className="active" aria-current="true" aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" className="active" aria-current="true" aria-label="Slide 3"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" className="active" aria-current="true" aria-label="Slide 4"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" className="active" aria-current="true" aria-label="Slide 5"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" className="active" aria-current="true" aria-label="Slide 6"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" className="active" aria-current="true" aria-label="Slide 7"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" className="active" aria-current="true" aria-label="Slide 8"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" className="active" aria-current="true" aria-label="Slide 9"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" className="active" aria-current="true" aria-label="Slide 10"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" className="active" aria-current="true" aria-label="Slide 11"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" className="active" aria-current="true" aria-label="Slide 12"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" className="active" aria-current="true" aria-label="Slide 13"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13" className="active" aria-current="true" aria-label="Slide 14"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" className="active" aria-current="true" aria-label="Slide 15"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" className="active" aria-current="true" aria-label="Slide 16"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" className="active" aria-current="true" aria-label="Slide 17"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" className="active" aria-current="true" aria-label="Slide 18"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="18" className="active" aria-current="true" aria-label="Slide 19"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="19" className="active" aria-current="true" aria-label="Slide 20"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="20" className="active" aria-current="true" aria-label="Slide 21"></button>
+                        </div>
+                        <div className="carousel-inner">
+                            <div className="carousel-item active">
+                                <img src="/images/cityofbrotherylylove/cbl_15.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_02.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_03.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_04.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_09.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="images/cityofbrotherylylove/cbl_01.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_08.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_05.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_07.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_14.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_13.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_16.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_11.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_10.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_18.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_06.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_17.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_12.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_19.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/cityofbrotherylylove/cbl_20.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                        </div>
+                    </div>
+                    <button className="carousel-control-prev" type="button" data-bs-target="#carouselCBL" data-bs-slide="prev">
+                        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span className="visually-hidden">Previous</span>
+                    </button>
+                    <button className="carousel-control-next" type="button" data-bs-target="#carouselCBL" data-bs-slide="next">
+                        <span className="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span className="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+
+
+  {/* fourth carousel*/}
+                <div className="card text-bg-dark">
+                    <h4>
+                        <em>Resemblance</em>
                     </h4>
                     <div id="carouselExampleCaptions" className="carousel slide">
                         <div className="carousel-indicators">
@@ -217,55 +325,75 @@ export default function Photos() {
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" className="active" aria-current="true" aria-label="Slide 17"></button>
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" className="active" aria-current="true" aria-label="Slide 18"></button>
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="18" className="active" aria-current="true" aria-label="Slide 19"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="19" className="active" aria-current="true" aria-label="Slide 20"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="20" className="active" aria-current="true" aria-label="Slide 21"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="21" className="active" aria-current="true" aria-label="Slide 22"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="22" className="active" aria-current="true" aria-label="Slide 23"></button>
+                            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="23" className="active" aria-current="true" aria-label="Slide 24"></button>
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_05.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_01.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_06.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_08.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_05.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_19.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_07.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_08.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_22.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_11.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_23.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_07.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_11.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_12.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_01.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_15.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_12.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_10.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_04.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_18.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_02.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_10.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_14.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_02.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_13.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_13.jpg" className="d-block w-100" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-
+                                <img src="/images/resemblance/resemblance_03.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/resemblance/resemblance_20.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/resemblance/resemblance_09.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/resemblance/resemblance_17.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/resemblance/resemblance_14.jpg" className="d-block w-100" alt="..."></img>
+                            </div>
+                            <div className="carousel-item">
+                                <img src="/images/resemblance/resemblance_21.jpg" className="d-block w-100" alt="..."></img>
                             </div>
 
                         </div>
@@ -279,99 +407,12 @@ export default function Photos() {
                         <span className="visually-hidden">Next</span>
                     </button>
                 </div>
-                <div className="card text-bg-dark">
-                <h4>
-                    <em>Resemblance</em>
-                </h4>
-                <div id="carouselExampleCaptions" className="carousel slide">
-                    <div className="carousel-indicators">
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" className="active" aria-current="true" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" className="active" aria-current="true" aria-label="Slide 3"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" className="active" aria-current="true" aria-label="Slide 4"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" className="active" aria-current="true" aria-label="Slide 5"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" className="active" aria-current="true" aria-label="Slide 6"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" className="active" aria-current="true" aria-label="Slide 7"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" className="active" aria-current="true" aria-label="Slide 8"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" className="active" aria-current="true" aria-label="Slide 9"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" className="active" aria-current="true" aria-label="Slide 10"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" className="active" aria-current="true" aria-label="Slide 11"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" className="active" aria-current="true" aria-label="Slide 12"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="12" className="active" aria-current="true" aria-label="Slide 13"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="13" className="active" aria-current="true" aria-label="Slide 14"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="14" className="active" aria-current="true" aria-label="Slide 15"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="15" className="active" aria-current="true" aria-label="Slide 16"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="16" className="active" aria-current="true" aria-label="Slide 17"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" className="active" aria-current="true" aria-label="Slide 18"></button>
-                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="18" className="active" aria-current="true" aria-label="Slide 19"></button>
-                    </div>
-                    <div className="carousel-inner">
-                        <div className="carousel-item active">
-                            <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_01.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_05.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_04.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_08.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_11.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_07.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_12.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_15.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_10.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_09.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_02.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_14.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-                            <img src="/images/semaphore/semaphore_13.jpg" className="d-block w-100" alt="..."></img>
-                        </div>
-                        <div className="carousel-item">
-
-                        </div>
-
-                    </div>
-                </div>
-                <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-                    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span className="visually-hidden">Previous</span>
-                </button>
-                <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-                    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span className="visually-hidden">Next</span>
-                </button>
-            </div>
 
 
             </div>
 
 
-           
+
 
         </>
     )
