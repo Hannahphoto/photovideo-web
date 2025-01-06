@@ -8,7 +8,7 @@ export default function cv() {
             </h1>
             <div className="card text-bg-dark">
 
-                <div className="card-body" style={{ color: "white" }} >
+                <div className="card-body poppins-light" style={{ color: "white" }} >
                     <h3>
                         EXHIBITIONS
                     </h3>
