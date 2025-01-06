@@ -44,6 +44,26 @@
   
 }
 
+div.row.row-cols-1.row-cols-md-3.g-4{
+  margin: 5%;
+}
+
+.card{
+  /* margin: %; */
+  display: flex;
+  /* margin-left: 4%; */
+  /* margin-right: 4%; */
+
+
+}
+
+.card-img-overlay{
+  /* display: none; */
+  margin: 25%;
+  height: 23%;
+ 
+}
+
 @media screen  and (max-width:900px)  {
   .carousel{
     /* margin-left: 15%;
@@ -52,5 +72,11 @@
     
   }
   
-  
+  .card-img-overlay{
+    /* display: none; */
+    margin: 20%;
+    height: 50%;
+   
+  }
+
 }
