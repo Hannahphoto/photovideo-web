@@ -7,10 +7,13 @@ export default function Home() {
     return (
         <>
            <h1 className="--bs-heading-color" style={{ color: "white" }}>
-                    Recent Book "Still Standing"
+                    Recent Book
                 </h1>
             <div className="card text-bg-dark">
              
+             <h2>
+             <em >Still Standing</em>
+             </h2>
                 <div id="carouselBook" className="carousel slide">
                     <div className="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>

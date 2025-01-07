@@ -14,6 +14,9 @@ h1{
   padding: 20px;
   
 }
+h2{
+  text-align: center;
+}
 
 h3{
   padding: 15px;
@@ -28,7 +31,7 @@ h4{
 
 em{
   background-color: transparent;
-  font-size: large;
+  font-size: 100%;
   
 }
 
