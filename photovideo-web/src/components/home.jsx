@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <>
             <h1 className="--bs-heading-color" style={{ color: "white" }}>
-                Recent Book "Still Standing"
+              Recent Book "Still Standing" 
             </h1>
             <div id="carouselBook" className="carousel slide">
                 <div className="carousel-indicators">
