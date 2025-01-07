@@ -17,7 +17,7 @@ export default function Contact() {
             <h4 className="--bs-heading-color" style={{ color: "white", marginBottom: "10px" }}>
                 hannahprice67@gmail.com
             </h4>
-            <button type="button" className="btn btn-outline-info" onClick={copyToClipboard} style={{ padding: "5px 10px", cursor: "pointer" }}>
+            <button type="button" className="btn btn-outline-warning" onClick={copyToClipboard} style={{ padding: "5px 10px", cursor: "pointer" }}>
                 Copy to Clipboard
             </button>
         </div>
