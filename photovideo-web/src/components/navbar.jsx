@@ -3,6 +3,11 @@ import { Link } from "react-router-dom"
 
 export default function Navbar({ }) {
     console.log('Navbar Rendered');
+
+    const openLink = (url) => {
+        window.open(url, '_blank');
+    };
+
     return (
         <>
             <nav className="navbar navbar-expand-lg bg-body-tertiary" style={{ padding: "0px", margin: "1.5%" }} >
@@ -34,7 +39,7 @@ export default function Navbar({ }) {
             </nav>
             <footer className="fixed-bottom">
                 <div className="container-fluid">
-                <Link onClick={() => openInNewTab("https://www.instagram.com/hannahprice_photovideo/")}>    
+                <Link onClick={() => openLink("https://www.instagram.com/hannahprice_photovideo/")}>    
                 <img className="col" src="/images/instagram.jpg" alt="instagram logo" id="icon"></img>
                 </Link>
                 </div>

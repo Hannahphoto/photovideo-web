@@ -22,7 +22,7 @@ h3{
 h4{
   background-color: transparent;
   text-align: center;
-  padding: 10px;
+  padding: 7px;
 
 }
 
@@ -32,9 +32,9 @@ em{
   
 }
 
-/* img{
-  max-height: 500px;
-} */
+img{
+  /* max-height: 500px; */
+}
 
 .col-1{
   margin-left: 50%;
