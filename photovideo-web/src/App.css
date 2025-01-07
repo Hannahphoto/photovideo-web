@@ -124,13 +124,13 @@ div.row.row-cols-1{
 }
 
 
-.btn.btn-outline-info{
+/* .btn.btn-outline-info{
   width: 50%;
   margin-left: 25%;
   margin-top: 7px;
   margin-bottom: 7px;
 
-}
+} */
 
 
 @media screen  and (max-width:900px)  {
