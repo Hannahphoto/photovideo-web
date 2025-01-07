@@ -11,6 +11,7 @@
 
 h1{
   text-align: center; 
+  padding: 10px;
 }
 
 h3{
@@ -89,8 +90,6 @@ em{
 .carousel{
   margin: 25%;
   margin-top: 2%;
-  
-  
 }
 
 .carousel-indicators{
