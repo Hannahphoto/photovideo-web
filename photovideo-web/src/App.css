@@ -134,6 +134,9 @@ div.row.row-cols-1{
 
 } */
 
+#icon.col{
+ max-width: 30px;
+}
 
 @media screen  and (max-width:900px)  {
   .carousel{

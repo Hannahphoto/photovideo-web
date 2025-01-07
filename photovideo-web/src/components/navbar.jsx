@@ -32,11 +32,13 @@ export default function Navbar({ }) {
                     </div>
                 </div>
             </nav>
-            {/* <footer className="fixed-bottom">
+            <footer className="fixed-bottom">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#" style={{ color: 'white' }}>Hannah Price Photo Video LLC © </a>
+                <Link onClick={() => openInNewTab("https://www.instagram.com/hannahprice_photovideo/")}>    
+                <img className="col" src="/images/instagram.jpg" alt="instagram logo" id="icon"></img>
+                </Link>
                 </div>
-            </footer> */}
+            </footer>
         </>
     )
 
