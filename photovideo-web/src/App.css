@@ -32,6 +32,7 @@ em{
 }
 
 
+
 .col-1{
   margin-left: 50%;
   padding: 0px;
@@ -83,7 +84,7 @@ em{
 }
 
 .carousel{
-  margin: 15%;
+  margin: 5%;
   margin-top: 2%;
   padding: 0%;
 }
@@ -97,22 +98,18 @@ div.row.row-cols-1.row-cols-md-3.g-4{
   margin: 1%;
 }
 
-div.row.row-cols-1{
+/* div.row.row-cols-1{
   justify-content: center;
-  margin-left: 20%;
+  /* margin-left: 20%;
   margin-right: 20%;
-  margin-top: 5%;
-}
-
-.card.text-bg-dark{
-  max-width: 20000px;
-  /* margin: 5%; */
-}
+  margin-top: 5%; 
+  }*/
 
 .card{
   margin: 5%;
   display: flex;
-  
+  /* margin-right: 15%; */
+
 }
 
 .card-title{
@@ -123,9 +120,14 @@ div.row.row-cols-1{
   margin: 0%;
 }
 
+.card.w-50.p-3.text-bg-dark.embed-responsive.embed-responsive-16by9{
+  left: 20%;
+}
+
 #icon.col{
  max-width: 40px;
 }
+
 
 @media screen  and (max-width:900px)  {
   .carousel{
