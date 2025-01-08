@@ -40,7 +40,7 @@ export default function Navbar({ }) {
             <footer className="fixed-bottom">
                 <div className="container-fluid">
                 <Link onClick={() => openLink("https://www.instagram.com/hannahprice_photovideo/")}>    
-                <img className="col" src="/images/instagram.jpg" alt="instagram logo" id="icon"></img>
+                <img className="col" src="/images/Instagram-logo.png" alt="instagram logo" id="icon"></img>
                 </Link>
                 </div>
             </footer>

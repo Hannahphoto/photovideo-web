@@ -18,7 +18,7 @@ export default function Contact() {
                 hannahprice67@gmail.com
             </h4>
             <button type="button" className="btn btn-outline-warning" onClick={copyToClipboard} style={{ padding: "5px 10px", cursor: "pointer" }}>
-                Copy to Clipboard
+                Copy Email Address
             </button>
         </div>
     );
