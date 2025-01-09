@@ -36,51 +36,51 @@ export default function Photos() {
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="17" className="active" aria-current="true" aria-label="Slide 18"></button>
                             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="18" className="active" aria-current="true" aria-label="Slide 19"></button>
                         </div>
-                        <div className="carousel-inner">
-                            <div className="carousel-item active">
-                                <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-100" alt="..."></img>
+                        <div className="carousel-inner" style={{alignSelf: "center"}} >
+                            <div className="carousel-item active" >
+                                <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_01.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_01.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_05.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_05.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_04.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_08.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_08.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_11.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_11.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_07.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_07.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_12.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_12.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_15.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_15.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_10.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_10.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_09.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_02.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_02.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_14.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_14.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_13.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_13.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
 
@@ -130,55 +130,55 @@ export default function Photos() {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/images/cursedbynight/cbnight_14.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_14.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_10.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_10.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_11.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_11.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_12.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_12.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_01.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_01.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_02.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_02.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_03.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_03.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_08.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_08.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_05.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_05.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_07.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_07.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_17.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_17.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_15.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_15.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_06.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_06.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_13.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_13.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_16.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_16.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_09.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cursedbynight/cbnight_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cursedbynight/cbnight_04.jpg" className="d-block w-50" alt="..."></img>
                             </div>
 
                         </div>
@@ -226,64 +226,64 @@ export default function Photos() {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/images/cityofbrotherylylove/cbl_15.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_15.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_02.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_02.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_03.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_03.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_04.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_09.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="images/cityofbrotherylylove/cbl_01.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="images/cityofbrotherylylove/cbl_01.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_08.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_08.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_05.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_05.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_07.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_07.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_14.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_14.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_13.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_13.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_16.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_16.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_11.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_11.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_10.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_10.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_18.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_18.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_06.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_06.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_17.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_17.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_12.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_12.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_19.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_19.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/cityofbrotherylylove/cbl_20.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/cityofbrotherylylove/cbl_20.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                         </div>
                     </div>
@@ -333,67 +333,67 @@ export default function Photos() {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/images/resemblance/resemblance_05.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_05.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_06.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_06.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_08.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_08.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_19.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_19.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_07.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_07.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_22.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_22.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_23.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_23.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_11.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_11.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_01.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_01.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_12.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_12.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_04.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_04.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_18.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_18.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_10.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_10.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_02.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_02.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_13.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_13.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_03.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_03.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_20.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_20.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_09.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_09.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_17.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_17.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_14.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_14.jpg" className="d-block w-50" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/resemblance/resemblance_21.jpg" className="d-block w-100" alt="..."></img>
+                                <img src="/images/resemblance/resemblance_21.jpg" className="d-block w-50" alt="..."></img>
                             </div>
 
                         </div>

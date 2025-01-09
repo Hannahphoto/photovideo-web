@@ -31,10 +31,6 @@ em{
   font-size: 100%;
 }
 
-/* img{
-   max-height: 800px; }*/
-
-
 .col-1{
   margin-left: 50%;
   padding: 0px;
@@ -89,6 +85,11 @@ em{
   margin: 5%;
   margin-top: 2%;
   padding: 0%;
+
+}
+
+.carousel-item{
+  margin-left: 25%;
 }
 
 .carousel-indicators{
@@ -96,22 +97,24 @@ em{
  
 }
 
+.carousel-caption.d-none.d-md-block{
+ width: 25%;
+
+}
+
 div.row.row-cols-1.row-cols-md-3.g-4{
   margin: 1%;
 }
 
-/* div.row.row-cols-1{
-  justify-content: center;
-  /* margin-left: 20%;
-  margin-right: 20%;
-  margin-top: 5%; 
-  }*/
-
+/* div.card.mb-4{
+  background-color: black;
+} */
 .card{
   margin: 5%;
   display: flex;
   /* margin-right: 15%; */
-
+  height: 100vh;
+  border: none;
 }
 
 .card-title{
