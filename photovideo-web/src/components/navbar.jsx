@@ -12,7 +12,7 @@ export default function Navbar({ }) {
         <>
             <nav className="navbar navbar-expand-lg bg-body-tertiary" style={{ padding: "0px", margin: "1.5%" }} >
                 <div className="container-fluid">
-                    <Link className="navbar-brand poppins-medium" id='link' to="/" style={{ color: '#cbbbe3', fontSize: '4vw' }}  >Hannah Price</Link>
+                    <Link className="navbar-brand poppins-medium" id='link' to="/" style={{ color: '#cbbbe3', fontSize: '3vw' }}  >Hannah Price</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
