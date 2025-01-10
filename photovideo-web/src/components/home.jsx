@@ -206,7 +206,7 @@ export default function Home() {
                             <img src="/images/Book-png/book_45.png" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_46.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_46.png" className="d-block w-75"  alt="..."></img>
                         </div>
 
                     </div>

@@ -10,7 +10,7 @@ export default function Photos() {
             </div>
             <div>
                 {/* first carousel*/}
-                <div className="card text-bg-dark">
+                <div className="card text-bg-dark" >
                     <h4>
                         <em>Semaphore</em>
                     </h4>
@@ -38,13 +38,13 @@ export default function Photos() {
                         </div>
                         <div className="carousel-inner" style={{alignSelf: "center"}} >
                             <div className="carousel-item active" >
-                                <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-75" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_06.jpg" className="d-block w-75"  alt="..."></img>
                             </div>
-                            <div className="carousel-item">
+                            <div className="carousel-item" >
                                 <img src="/images/semaphore/semaphore_01.jpg" className="d-block w-75" alt="..."></img>
                             </div>
                             <div className="carousel-item">
-                                <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-75" alt="..."></img>
+                                <img src="/images/semaphore/semaphore_03.jpg" className="d-block w-75"  alt="..."></img>
                             </div>
                             <div className="carousel-item">
                                 <img src="/images/semaphore/semaphore_05.jpg" className="d-block w-75" alt="..."></img>
