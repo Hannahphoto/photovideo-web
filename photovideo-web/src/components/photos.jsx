@@ -82,9 +82,7 @@ export default function Photos() {
                             <div className="carousel-item">
                                 <img src="/images/semaphore/semaphore_13.jpg" className="d-block w-50" alt="..."></img>
                             </div>
-                            <div className="carousel-item">
-
-                            </div>
+                          
 
                         </div>
                     </div>

@@ -8,9 +8,10 @@
 
 h1{
   text-align: center; 
-  padding: 20px;
-  
+  padding: 5px;
+ 
 }
+
 h2{
   text-align: center;
 }
@@ -134,17 +135,3 @@ div.row.row-cols-1.row-cols-md-3.g-4{
 }
 
 
-@media screen  and (max-width:900px)  {
-  .carousel{
-    margin: 15%;
-    margin-top: 2%;
-  }
-  
-  div.row.row-cols-1{
-    justify-content: center;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 5%;
-  }
-
-}
