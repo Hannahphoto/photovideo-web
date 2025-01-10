@@ -31,7 +31,7 @@ export default function Navbar({ }) {
                                 <Link className="nav-link" id='link'to="/cv" style={{ color: 'white' }}>CV</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" id='link'to="/contact" style={{ color: 'white' }}>Contact</Link>
+                                <Link className="nav-link" id='link'to="/contact" style={{ color: 'white' }}>Bio | Contact</Link>
                             </li>
                         </ul>
                     </div>
