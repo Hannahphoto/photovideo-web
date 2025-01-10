@@ -3,17 +3,22 @@ import { useEffect } from "react";
 
 
 export default function Home() {
+    const openInNewTab = (url) => {
+        const newWindow = window.open(url, '_blank', 'noopener, noreferrer');
+        if (newWindow) newWindow.opener = null;
+    }
+
 
     return (
         <>
-           <h1 className="--bs-heading-color" style={{ color: "white" }}>
-                    Recent Book
-                </h1>
+            <h1 className="--bs-heading-color" style={{ color: "white" }}>
+                Recent Book
+            </h1>
             <div className="card text-bg-dark">
-             
-             <h2>
-             <em >Still Standing</em>
-             </h2>
+
+                <h2>
+                    <em >Still Standing</em>
+                </h2>
                 <div id="carouselBook" className="carousel slide">
                     <div className="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -213,6 +218,10 @@ export default function Home() {
                 <button className="carousel-control-next" type="button" data-bs-target="#carouselBook" data-bs-slide="next">
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
+                </button>
+
+                <button type="button" className="btn btn-outline-info" onClick={() => openInNewTab("https://drive.google.com/file/d/1eK7iI_Vx5DMExYNytEoYeG-pVhs1gajO/view?usp=sharing")} style={{ width: "30%", marginLeft: "35%", marginTop: "0%", cursor: "pointer" }}>
+                Download PDF For Your Phone
                 </button>
             </div>
         </>
