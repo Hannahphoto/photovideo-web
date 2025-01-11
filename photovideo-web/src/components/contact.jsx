@@ -30,6 +30,7 @@ export default function Contact() {
                     Currently, Ms. Price lives and works in Philadelphia, PA.
 
                 </p>
+                
                 </div>
             </div>
           

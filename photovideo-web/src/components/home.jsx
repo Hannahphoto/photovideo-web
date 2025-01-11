@@ -220,7 +220,7 @@ export default function Home() {
                     <span className="visually-hidden">Next</span>
                 </button>
 
-                <button type="button" className="btn btn-outline-info" onClick={() => openInNewTab("https://drive.google.com/file/d/1eK7iI_Vx5DMExYNytEoYeG-pVhs1gajO/view?usp=sharing")} style={{ width: "30%", marginLeft: "35%", marginTop: "0%", cursor: "pointer" }}>
+                <button type="button" className="btn btn-outline-info" onClick={() => openInNewTab("https://drive.google.com/file/d/1eK7iI_Vx5DMExYNytEoYeG-pVhs1gajO/view?usp=sharing")} style={{ width: "30%", marginLeft: "35%", marginTop: "0%", marginBottom:"10px", cursor: "pointer" }}>
                 Download PDF For Your Phone
                 </button>
             </div>
