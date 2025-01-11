@@ -38,16 +38,17 @@ export default function Navbar({ }) {
                 </div>
             </nav>
             <footer className="fixed-bottom" style={{ color: 'grey' }}>
-            <p>
-                    <em>
-                        I developed this website, please inquire if you need a website.
-                    </em>
-                </p>
+            
                 <div className="container-fluid">
                 <Link onClick={() => openLink("https://www.instagram.com/hannahprice_photovideo/")}>    
                 <img className="col" src="/images/Instagram-logo.png" alt="instagram logo" id="icon"></img>
                 </Link>
                 </div>
+                <p>
+                    <em>
+                        I developed this website, please inquire if you need a website.
+                    </em>
+                </p>
             </footer>
         </>
     )
