@@ -71,142 +71,142 @@ export default function Home() {
                     </div>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/images/Book-png/book_01.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_01.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_02.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_02.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_03.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_03.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_04.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_04.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_05.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_05.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_06.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_06.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_07.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_07.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_08.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_08.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_09.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_09.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_10.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_10.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_11.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_11.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_12.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_12.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_13.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_13.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_14.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_14.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_15.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_15.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_16.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_16.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_17.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_17.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_18.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_18.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_19.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_19.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_20.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_20.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_21.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_21.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_22.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_22.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_23.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_23.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_24.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_24.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_25.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_25.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_26.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_26.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_27.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_27.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_28.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_28.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_29.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_29.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_30.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_30.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_31.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_31.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_32.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_32.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_33.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_33.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_34.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_34.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_35.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_35.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_36.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_36.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_37.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_37.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_38.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_38.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_39.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_39.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_40.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_40.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_41.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_41.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_42.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_42.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_43.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_43.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_44.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_44.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_45.png" className="d-block w-75" alt="..."></img>
+                            <img src="/images/Book-png/book_45.webp" className="d-block w-75" alt="..."></img>
                         </div>
                         <div className="carousel-item">
-                            <img src="/images/Book-png/book_46.png" className="d-block w-75"  alt="..."></img>
+                            <img src="/images/Book-png/book_46.webp" className="d-block w-75"  alt="..."></img>
                         </div>
 
                     </div>

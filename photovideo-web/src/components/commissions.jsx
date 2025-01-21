@@ -40,130 +40,130 @@ export default function Commissions() {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="/images/comissions/mnight6.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/mnight6.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>The New York Times</h5>
               <p>Ishana & M Night Shyamalan.</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/mnight1.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/mnight1.webp" className="d-block w-75" alt="..."></img>
           
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/mnight4.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/mnight4.webp" className="d-block w-75" alt="..."></img>
         
           </div>
            <div className="carousel-item">
-            <img src="/images/comissions/nikegive3.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/nikegive3.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>Nike Give</h5>
               <p>Mentorship program.</p>
             </div>
           </div>
            <div className="carousel-item">
-            <img src="/images/comissions/nikegive.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/nikegive.webp" className="d-block w-75" alt="..."></img>
         
           </div>
          <div className="carousel-item">
-            <img src="/images/comissions/apple1.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple1.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>APPLE</h5>
               <p>Black History Month</p>
             </div>
           </div>
            <div className="carousel-item">
-            <img src="/images/comissions/apple2.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple2.webp" className="d-block w-75" alt="..."></img>
           
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/apple3.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple3.webp" className="d-block w-75" alt="..."></img>
          
           </div>
          <div className="carousel-item">
-            <img src="/images/comissions/apple4.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple4.webp" className="d-block w-75" alt="..."></img>
          
           </div>
          <div className="carousel-item">
-            <img src="/images/comissions/apple5.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple5.webp" className="d-block w-75" alt="..."></img>
           
           </div>
            <div className="carousel-item">
-            <img src="/images/comissions/apple6.PNG" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/apple6.webp" className="d-block w-75" alt="..."></img>
          
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/chakaia.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/chakaia.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>The New York Times</h5>
               <p>Chakaia Booker</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/vogue.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/vogue.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>Vogue</h5>
               <p></p>
             </div>
           </div>
         <div className="carousel-item">
-            <img src="/images/comissions/vice-imani.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/vice-imani.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>Vice</h5>
               <p>Imani Babarin</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/espn2.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/espn2.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5 className='poppins-extralight-italic'>ESPN</h5>
               <p>Anderson .Paak's Family</p>
             </div>
           </div>
             <div className="carousel-item">
-            <img src="/images/comissions/espn.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/espn.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>ESPN</h5>
               <p>Anderson .Paak's Family</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/thewire.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/thewire.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>The Wire</h5>
               <p>Musician Tyshawn Sorey</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/thewire2.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/thewire2.webp" className="d-block w-75" alt="..."></img>
             {/* <div className="carousel-caption d-none d-md-block">
               <h5>Third slide label</h5>
               <p>Some representative placeholder content for the third slide.</p>
             </div> */}
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/theatlantic.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/theatlantic.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>The Atlantic</h5>
               <p></p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/refinery.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/refinery.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>The New York Times Magazine</h5>
               <p>Philadelphia Refinery</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/presbusts.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/presbusts.webp" className="d-block w-75" alt="..."></img>
             <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>The New York Times Magazine</h5>
               <p>Presidential Busts</p>
             </div>
           </div>
           <div className="carousel-item">
-            <img src="/images/comissions/presbusts2.png" className="d-block w-75" alt="..."></img>
+            <img src="/images/comissions/presbusts2.webp" className="d-block w-75" alt="..."></img>
             {/* <div className="carousel-caption d-none d-md-block">
               <h5  className='poppins-extralight-italic'>Third slide label</h5>
               <p>Some representative placeholder content for the third slide.</p>
