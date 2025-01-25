@@ -72,7 +72,7 @@ export default function cv() {
                         <em>Next: Emerging Philadelphia Photographers.</em> Philadelphia Photo Arts Center, Philadelphia, PA.August 18th- November 29th, 2009.
                     </p>
                     <h3>
-                        SECIAL COLLECTIONS
+                        SPECIAL COLLECTIONS
                     </h3>
                     <p>
                         Madison Museum of Contemporary Art.
